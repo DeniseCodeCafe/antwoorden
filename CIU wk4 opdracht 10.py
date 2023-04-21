@@ -100,10 +100,5 @@ def speel_spel():
                 # en stop de loop
                 break
 
-            # Als het spel wel doorgaat
-            else:
-                # vervolg de loop
-                continue
-
 # Roep het spel aan
 speel_spel()
